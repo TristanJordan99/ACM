@@ -1,1 +1,2 @@
-
+We used Unity to make a marble. We dropped said marble on the floor (we made that too) and we got the marble to jump. 10/10 super realistic, would recommend.
+Usamos Unity hacer un mármol. Dejamos caer el mármol sobre el piso (creamos eso también) y lo forzamos el mármol saltar.
