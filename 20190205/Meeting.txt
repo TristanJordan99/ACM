@@ -1,1 +1,3 @@
 
+In this meeting we set unity up and started a project similar to cookie clicker.
+Unity download link: https://store.unity.com/download
